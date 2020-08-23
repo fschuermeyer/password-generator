@@ -4,7 +4,7 @@ Set "generate-password" as Executable like `chmod +x ./generate-password` - Now 
 
 
 ```
-generate-password 16 3 True True True
+generate-password 16 3 True True True $!=
 ```
 
 
@@ -24,3 +24,4 @@ TQKome>EHpz:=VxcF!0}
 | punctuation | Punctuation (Special Chars) | Bool       | True    |
 | digits      | Digits                      | Bool       | True    |
 | letters     | Letters                     | Bool       | True    |
+| excludes    | Special Chars Exclude       | String     | None    |
