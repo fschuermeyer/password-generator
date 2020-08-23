@@ -1,8 +1,12 @@
 # Password Generator
 
+Set "generate-password" as Executable like `chmod +x ./generate-password` - Now you can use the Command in the Dir.
+
+
 ```
-python3 password-gen.py 16 3 True True True
+generate-password 16 3 True True True
 ```
+
 
 Generate the Following: 
 ```
