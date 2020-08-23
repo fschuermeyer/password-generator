@@ -1,5 +1,8 @@
 # Password Generator
 
+![GitHub last commit](https://img.shields.io/github/last-commit/fschuermeyer/password-generator)
+![GitHub issues](https://img.shields.io/github/issues-raw/fschuermeyer/password-generator)
+
 Set "generate-password" as Executable like `chmod +x ./generate-password` - Now you can use the Command in the Dir.
 
 
@@ -25,3 +28,4 @@ TQKome>EHpz:=VxcF!0}
 | digits      | Digits                      | Bool       | True    |
 | letters     | Letters                     | Bool       | True    |
 | excludes    | Special Chars Exclude       | String     | None    |
+
