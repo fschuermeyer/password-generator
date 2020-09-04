@@ -3,13 +3,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/fschuermeyer/password-generator)
 ![GitHub issues](https://img.shields.io/github/issues-raw/fschuermeyer/password-generator)
 
-Set "generate-password" as Executable like `chmod +x ./generate-password` - Now you can use the Command in the Dir.
 
+Run the install.py to Create the Command Exectubale in the /usr/local/bin Dir 
 
 ```
-generate-password 16 3 True True True $!=
+gcp 16 3 True True True $!=
 ```
-
 
 Generate the Following: 
 ```

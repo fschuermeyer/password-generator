@@ -17,5 +17,3 @@ if(installPath in possiblePaths):
 else:
     print("Command ("+ commmandName + ") - not Installed")
 
-
-    
