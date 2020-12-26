@@ -4,7 +4,7 @@ import sys
 import random
 import string
 
-class passwordGenerator:
+class PasswordGenerator:
     def __init__(self): 
         self.data = []
 
@@ -83,6 +83,6 @@ class passwordGenerator:
             print(self.pwgen())
         
 
-pwGEN = passwordGenerator()
+pwGEN = PasswordGenerator()
 
 pwGEN.create()
